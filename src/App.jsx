@@ -1,13 +1,17 @@
+import "./App.css";
 
-import './App.css'
-
-function App() {
-
-  return (
-    <>
-   <div></div>
-    </>
-  )
+function OtherComponent() {
+  return <h2>Other Component</h2>;
 }
 
-export default App
+function App() {
+  return (
+    <>
+      <div>
+        <OtherComponent />
+      </div>
+    </>
+  );
+}
+
+export default App;
