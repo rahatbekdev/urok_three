@@ -1,0 +1,39 @@
+.main2 {
+  width: 1260px;
+  height: 600px;
+  background-color: rgba(98, 208, 223, 1);
+  position: relative;
+}
+/* .boxOne{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+.thriveGroup {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+}
+.thrive {
+  width: 430px;
+}
+.image2 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 525px;
+  height: 600px;
+}
+.thriveName {
+  color: rgba(255, 255, 255, 1);
+  font-size: 36px;
+  line-height: 27px;
+}
+.thriveText{
+  color: rgba(255, 255, 255, 1);
+  font-size: 20px;
+  line-height: 29px;
+  margin: 50px 0;
+}

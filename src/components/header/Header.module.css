@@ -1,0 +1,40 @@
+.headerBox {
+  width: 1260px;
+  height: 630px;
+  background-color: rgba(244, 249, 226, 1);
+  /* position: relative; */
+}
+.headerBody {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  padding-top: 50px;
+}
+
+.titleHeader {
+  color: rgba(98, 208, 223, 1);
+  font-size: 24px;
+}
+.headerBtn {
+  background-color: rgba(98, 208, 223, 1);
+  border: none;
+  width: 150px;
+  height: 50px;
+  border-radius: 50px;
+  color: white;
+}
+.headerUl ul {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
+.headerUl li {
+  margin: 0 10px;
+}
+.imgMask{
+  position: absolute;
+  right: 0;
+  top: 80px;
+}

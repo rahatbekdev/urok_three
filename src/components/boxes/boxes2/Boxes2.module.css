@@ -1,0 +1,55 @@
+
+.f2{
+  display: grid;
+  grid-template-columns: repeat(3,0fr);
+  justify-content: center;
+  padding-top: 100px;
+}
+.boxes1 {
+  background-color: rgba(34, 53, 111, 1);
+  width: 410px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes2 {
+  background-color: rgba(0, 82, 193, 1);
+  width: 410px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes3 {
+  background-image: url(../../image_1//Group.png);
+  width: 410px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes4 {
+  background-color: rgba(98, 208, 223, 1);
+  width: 410px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes5 {
+  background-color: rgba(222, 225, 255, 1);
+  width: 410px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes6 {
+  background-color: rgba(143, 0, 255, 1);
+  width: 410px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

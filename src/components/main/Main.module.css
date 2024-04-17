@@ -1,0 +1,49 @@
+.main {
+  padding-top: 100px;
+  /* width: 1260px; */
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center; */
+}
+
+.mainText {
+  width: 450px;
+  color: rgba(34, 53, 111, 1);
+  font-size: 24px;
+}
+.textMain {
+  color: rgba(98, 208, 223, 1);
+  font-size: 24px;
+}
+.textH2 {
+  color: rgba(34, 53, 111, 1);
+  font-size: 48px;
+  margin: 50px 0;
+}
+.imgMask {
+  width: 607px;
+  height: 544px;
+  position: absolute;
+  right: 0;
+  top: 100px;
+}
+.btnGroup{
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+}
+.mainBtn {
+  background-color: rgba(249, 182, 64, 1);
+  color: white;
+  font-size: 16px;
+  border: none;
+  width: 150px;
+  height: 50px;
+}
+.mainOfBtn {
+  border: none;
+  color: rgba(250, 182, 62, 1);
+  font-size: 16px;
+  margin-left: 20px;
+}

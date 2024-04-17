@@ -1,0 +1,43 @@
+.boxesGroup {
+  display: flex;
+}
+
+.boxes1 {
+  width: 320px;
+  height: 320px;
+  background-color: rgba(255, 226, 222, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.boxes2 {
+  background-color: rgba(196, 231, 105, 1);
+  width: 320px;
+  height: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes3 {
+  width: 320px;
+  height: 320px;
+  background-color: rgba(98, 208, 223, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxes4 {
+  width: 320px;
+  height: 320px;
+  background-color: rgba(0, 82, 193, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box1 {
+  width: 250px;
+  height: 5px;
+  background-color: silver;
+}

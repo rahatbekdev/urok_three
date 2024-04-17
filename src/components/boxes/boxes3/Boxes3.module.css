@@ -1,0 +1,20 @@
+.f3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.textBox {
+  width: 300px;
+  font-size: 16px;
+  color: rgba(34, 53, 111, 0.5);
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.titleF1 {
+  font-size: 28px;
+  color: rgba(34, 53, 111, 1);
+}

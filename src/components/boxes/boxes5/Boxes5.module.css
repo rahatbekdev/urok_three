@@ -1,0 +1,37 @@
+.box5 {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+  background-color: blue;
+  height: 800px;
+}
+.text5 {
+  font-size: 36px;
+  color: rgba(255, 255, 255, 1);
+  width: 500px;
+  margin: 200px 0;
+}
+.title5 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 16px;
+  line-height: 16px;
+}
+.title6 {
+  font-size: 64px;
+  color: rgba(255, 255, 255, 1);
+}
+.img5 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 450px;
+  height: 800px;
+}
+.btn5 {
+  font-size: 16px;
+  color: rgba(98, 208, 223, 1);
+  border: none;
+  background-color: transparent;
+}
